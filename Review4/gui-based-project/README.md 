@@ -1,0 +1,14 @@
+# GUI Data Validation Example
+
+## Overview
+This project demonstrates a simple GUI application with data validation for name and email fields using Java Swing.
+
+## Features
+- **Name Validation**: Ensures that only letters and spaces are allowed in the name field.
+- **Email Validation**: Validates the email format using regular expressions.
+
+## How to Run
+1. Clone the repository.
+2. Build the project using Maven:
+   ```bash
+   mvn clean install
